@@ -8,7 +8,7 @@ module.exports = {
       'secondaryColor': '#F0F4EC'
     },
     backgroundImage: {
-      'bg_image':"url('/src/assets/img/bg.png')",
+      'bg_image':"url('/src/assets/img/cyclebg.png')",
     },},
   },
   plugins: [require("daisyui")],
