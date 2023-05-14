@@ -1,0 +1,18 @@
+@keyframes cycle-forward {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .cycle-image {
+    animation: cycle-forward 5s linear infinite;
+  }
+
+  .banner-text{
+    font-family: 'Merienda';
+    line-height: 130%
+  }
+  
